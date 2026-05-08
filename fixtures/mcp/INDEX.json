@@ -1,0 +1,29 @@
+{
+  "claims": {
+    "proves_authorization": false,
+    "proves_integrity": true,
+    "proves_safety": false,
+    "proves_truth": false
+  },
+  "fixture_family": "mcp",
+  "fixtures": [
+    "malformed-request",
+    "malformed-response",
+    "secret-like-tool-result",
+    "truncated-stdio-stream",
+    "server-crash-mid-call",
+    "client-disconnect",
+    "nested-tool-call",
+    "reordered-response",
+    "missing-tool-result",
+    "replay-bundle-tamper"
+  ],
+  "object_type": "INVOCORDER_HOSTILE_FIXTURE_INDEX",
+  "required_outputs": [
+    "expected/machine-action-records.jsonl",
+    "expected/omissions.jsonl",
+    "expected/replay-bundle.json",
+    "expected/bundle-integrity-result.json"
+  ],
+  "schema_version": "0.2.0"
+}

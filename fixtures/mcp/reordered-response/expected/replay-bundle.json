@@ -1,0 +1,43 @@
+{
+  "artifacts": [
+    {
+      "path": "records.jsonl",
+      "sha256": "455f47ad9ff5559f779998567f8597f17eb9599721156259c4d809fdd0581528",
+      "size_bytes": 1978
+    },
+    {
+      "path": "omissions.jsonl",
+      "sha256": "118c4f15818d05609206147e51e29d1c66e413735ef71c16fd1baac3c78f175d",
+      "size_bytes": 311
+    }
+  ],
+  "capture_contract_version": "0.1.0",
+  "claims": {
+    "proves_authorization": false,
+    "proves_integrity": true,
+    "proves_safety": false,
+    "proves_truth": false
+  },
+  "created_at": "2026-05-08T16:07:45.425260Z",
+  "hash_chain": {
+    "algorithm": "sha256",
+    "first_record_hash": "f41d34c597f08a2794901a0282a66964a3ace4e6b7a331f29964c7ca61fa5c8a",
+    "last_record_hash": "0dafafc31c607ee3abe7eaec131b4176df18bcd2131187e914de9231f23caf24",
+    "record_count": 2
+  },
+  "integrity": {
+    "bundle_sha256": "ba637178e21c21d8862c3babb593b21feb8af7c7dcbab0fbc6b0e8599210c943"
+  },
+  "object_type": "INVOCORDER_MACHINE_ACTION_EVIDENCE_BUNDLE",
+  "recorder": {
+    "build_sha256": "fixture",
+    "name": "invocorder-fixture",
+    "version": "0.2.0-fixture"
+  },
+  "redaction": {
+    "mode": "none",
+    "policy_sha256": "fixture"
+  },
+  "schema_version": "0.1.0",
+  "session_id": "act_fixture_reordered_response"
+}

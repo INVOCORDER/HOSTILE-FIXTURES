@@ -1,0 +1,1 @@
+{"declared_at": "2026-05-08T16:07:45.423513Z", "object_type": "INVOCORDER_OMISSION_RECORD", "omission_id": "om_2b07de00-1f91-4ab1-8f65-4113f137a461", "reason": "server crashed before tool result boundary was available", "schema_version": "0.1.0", "session_id": "act_fixture_server_crash_mid_call"}

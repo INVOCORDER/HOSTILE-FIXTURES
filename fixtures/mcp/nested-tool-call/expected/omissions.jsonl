@@ -1,0 +1,1 @@
+{"declared_at": "2026-05-08T16:07:45.424657Z", "object_type": "INVOCORDER_OMISSION_RECORD", "omission_id": "om_72214c7a-c02a-4bbe-b175-73165cd4eb40", "reason": "nested downstream tool call declared as outside current capture scope", "schema_version": "0.1.0", "session_id": "act_fixture_nested_tool_call"}
