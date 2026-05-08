@@ -1,0 +1,1 @@
+{"declared_at": "2026-05-08T16:07:45.425217Z", "object_type": "INVOCORDER_OMISSION_RECORD", "omission_id": "om_a0436bcc-ca96-459f-97ff-4accd15bc1fc", "reason": "response ordering anomaly declared; sequence preserved by recorder order", "schema_version": "0.1.0", "session_id": "act_fixture_reordered_response"}

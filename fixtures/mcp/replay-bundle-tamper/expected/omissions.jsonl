@@ -1,0 +1,1 @@
+{"declared_at": "2026-05-08T16:07:45.426307Z", "object_type": "INVOCORDER_OMISSION_RECORD", "omission_id": "om_bccd2ac2-530c-4c3e-97b2-b4303b4c2f35", "reason": "tampered replay bundle expected to fail integrity verification", "schema_version": "0.1.0", "session_id": "act_fixture_replay_bundle_tamper"}

@@ -1,0 +1,1 @@
+{"declared_at": "2026-05-08T16:07:45.424104Z", "object_type": "INVOCORDER_OMISSION_RECORD", "omission_id": "om_323e7b60-01a7-4aa9-af35-161c532200da", "reason": "client disconnected before complete response capture", "schema_version": "0.1.0", "session_id": "act_fixture_client_disconnect"}

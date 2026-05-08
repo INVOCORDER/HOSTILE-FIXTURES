@@ -1,0 +1,1 @@
+{"declared_at": "2026-05-08T16:07:45.421790Z", "object_type": "INVOCORDER_OMISSION_RECORD", "omission_id": "om_698ab4b7-e225-4bba-8d39-452854a292e1", "reason": "malformed MCP response could not be parsed; raw payload hash preserved", "schema_version": "0.1.0", "session_id": "act_fixture_malformed_response"}

@@ -1,0 +1,1 @@
+{"declared_at": "2026-05-08T16:07:45.425757Z", "object_type": "INVOCORDER_OMISSION_RECORD", "omission_id": "om_9795bb05-f9d8-4784-81bd-41d873a98c3b", "reason": "matching MCP tool result not observed before session close", "schema_version": "0.1.0", "session_id": "act_fixture_missing_tool_result"}

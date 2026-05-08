@@ -1,0 +1,1 @@
+{"declared_at": "2026-05-08T16:07:45.422378Z", "object_type": "INVOCORDER_OMISSION_RECORD", "omission_id": "om_b21b5606-6cc9-46e3-b601-3de8b83dc759", "reason": "secret-like payload redacted under deterministic redaction policy", "schema_version": "0.1.0", "session_id": "act_fixture_secret_like_tool_result"}
