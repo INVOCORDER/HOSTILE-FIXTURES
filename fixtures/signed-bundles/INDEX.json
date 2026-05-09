@@ -1,0 +1,22 @@
+{
+  "claims": {
+    "proves_authorization": false,
+    "proves_integrity_signature": true,
+    "proves_safety": false,
+    "proves_truth": false
+  },
+  "fixture_family": "signed-bundles",
+  "fixtures": [
+    "valid-persistent-signed-bundle",
+    "tampered-signed-bundle",
+    "fingerprint-mismatch",
+    "truth-overclaim"
+  ],
+  "object_type": "INVOCORDER_SIGNED_FIXTURE_INDEX",
+  "required_outputs": [
+    "input/replay-bundle.json",
+    "input/signed-bundle-envelope.json",
+    "expected/signed-bundle-verification-result.json"
+  ],
+  "schema_version": "0.3.2"
+}
