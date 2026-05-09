@@ -1,0 +1,9 @@
+{
+  "errors": [
+    "bundle sha256 mismatch",
+    "signature verification failed"
+  ],
+  "object_type": "INVOCORDER_SIGNED_BUNDLE_VERIFICATION_EXPECTATION",
+  "schema_version": "0.3.2",
+  "valid": false
+}

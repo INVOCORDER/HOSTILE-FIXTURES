@@ -1,0 +1,17 @@
+{
+  "bundle_path": "replay-bundle.json",
+  "bundle_sha256": "f236691a233b706820d5ceec6fee5e5cb1987ca659a6030c409c9dc4ae61ef59",
+  "claims": {
+    "proves_authorization": false,
+    "proves_integrity_signature": true,
+    "proves_safety": false,
+    "proves_truth": false
+  },
+  "key_mode": "persistent",
+  "object_type": "INVOCORDER_SIGNED_BUNDLE_ENVELOPE",
+  "public_key_fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAHgvIxypFWLSbQ4xFkZKRvG1MjBNNH/JuJMtjEGUrI4Y=\n-----END PUBLIC KEY-----\n",
+  "schema_version": "0.3.1",
+  "signature_algorithm": "ed25519",
+  "signature_base64": "McTMJkq37wvquscNH30ZKyOcb60tDLJ0aJtmKCS56wwCh8+QltSV9IJx6+ZxPvPYNmiH4Be7/me010f4wqzZAA=="
+}
